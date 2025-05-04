@@ -25,7 +25,7 @@ Streamlit – for UI
 Jupyter Notebook – for development and training
 
 # How to Run the Project Locally
-git clone https://github.com/your-username/career-path-recommender.git
+git clone https://github.com/abhigyaabs2/career-path-recommender
 streamlit run career_recommender_app.py
 
 # Features
